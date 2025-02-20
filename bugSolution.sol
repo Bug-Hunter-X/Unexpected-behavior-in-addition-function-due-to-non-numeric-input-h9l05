@@ -1,0 +1,1 @@
+function add(a, b) { require(typeof a === 'number' && typeof b === 'number', "Inputs must be numbers"); return a + b; }
