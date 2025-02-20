@@ -1,0 +1,1 @@
+This repository demonstrates a common bug in Dapps: improper input handling. The `add` function in `bug.sol` does not check if the inputs are numbers, leading to potential errors. The solution in `bugSolution.sol` adds input validation to prevent these errors.
